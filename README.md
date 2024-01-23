@@ -3,7 +3,6 @@
 ## Consigna: 
 
 ![Captura de pantalla (423)](https://github.com/rociocarvajal/simulacroParcial2-TUASySL/assets/136781946/d98d67c5-6c68-4e65-ab64-21fae1f19ffe)
-
 ![Captura de pantalla (424)](https://github.com/rociocarvajal/simulacroParcial2-TUASySL/assets/136781946/aac2d8c8-ec7b-408c-8bd3-d22158a83934)
 
 ## Ejercicio 1: 
